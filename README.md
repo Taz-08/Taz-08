@@ -1,7 +1,7 @@
 -  Hi, I’m @Taz-08. 
 -  I’m interested in animation and digital art!
--  I’m currently learning python and c programming
--  I'm a beginner in this field,and am open to learning all sorts of skills.
+-  I’m currently learning python and c programming from scratch.
+-  I'm a beginner in this field, and am open to learning all sorts of skills and taking up challenges :>
 -  reach me at my email,tazbutbean@gmail.com
 - 
 
